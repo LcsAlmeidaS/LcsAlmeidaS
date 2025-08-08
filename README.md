@@ -6,7 +6,7 @@
 
 Sou apaixonado por tecnologia e desenvolvimento de software.  
 Atualmente, curso **Sistemas de Informação** e tenho como objetivo me tornar um desenvolvedor **Full Stack**, com foco principal em **Back-End**.  
-Gosto de trabalhar com **C#**, **ASP.NET Core** e bancos de dados, mas também tenho interesse em tecnologias de **Front-End** como **React**.
+Gosto de trabalhar com **C#**, **ASP.NET Core** e bancos de dados, mas também tenho interesse e estou estudando tecnologias de **Front-End** como **React**.
 
 📬 **Contate-me:** [lcshenriquegs@gmail.com](mailto:lcshenriquegs@gmail.com)
 
