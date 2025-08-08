@@ -1,61 +1,30 @@
 # Olá! Meu nome é Lucas Almeida
 
----
+### 🎓 Graduando em Sistemas de Informação
 
-## 🎓 Graduando em Sistemas de Informação
+Sou um apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou cursando **Sistemas de Informação** e meu objetivo é me tornar um desenvolvedor **Full Stack**, com um foco especial em **Back-End**.
 
-Sou apaixonado por tecnologia e desenvolvimento de software.  
-Atualmente, curso **Sistemas de Informação** e tenho como objetivo me tornar um desenvolvedor **Full Stack**, com foco principal em **Back-End**.  
-Gosto de trabalhar com **C#**, **ASP.NET Core** e bancos de dados, mas também tenho interesse e estou estudando tecnologias de **Front-End** como **React**.
-
-📬 **Contate-me:** [lcshenriquegs@gmail.com](mailto:lcshenriquegs@gmail.com)
+Minhas principais ferramentas de trabalho são **C#**, **ASP.NET Core** e bancos de dados. Além disso, estou sempre buscando aprimorar minhas habilidades em tecnologias de **Front-End**, como **React**.
 
 ---
 
-## 🛠 Skills
-<div>
-<img
-  align="left"
-  title="C#"
-  width="30px"
-  style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img
-  align="left"
-  title="React"
-  width="30px"
-  style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img
-  align="left"
-  title="MySQL"
-  width="30px"
-  style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img
-  align="left"
-  title="Entity Framework Core"
-  width="30px"
-  style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" />
-<img
-  align="left"
-  title="HTML5"
-  width="30px"
-  style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img
-  align="left"
-  title="CSS3"
-  width="30px"
-  style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img
-  align="left"
-  title="JavaScript"
-  width="30px"
-  style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
-</div>
+### 🛠 Habilidades
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" alt="Entity Framework Core" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
+
+---
 
 
+
+### 📬 Contato
+
+**Email:** [lcshenriquegs@gmail.com](mailto:lcshenriquegs@gmail.com)
