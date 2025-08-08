@@ -63,17 +63,3 @@ Gosto de trabalhar com **C#**, **ASP.NET Core** e bancos de dados, mas também t
   style="padding-right:10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
 
-
-##
----
-## 🛠 Redes Sociais
-<p align="left">
-  <a href="https://www.github.com/LcsAlmeidaS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
-  </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-</p>
-
----
