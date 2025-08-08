@@ -13,53 +13,49 @@ Gosto de trabalhar com **C#**, **ASP.NET Core** e bancos de dados, mas também t
 ---
 
 ## 🛠 Skills
-
+<div>
 <img
   align="left"
   title="C#"
   width="30px"
   style="padding-right:10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-
 <img
   align="left"
   title="React"
   width="30px"
   style="padding-right:10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-
 <img
   align="left"
   title="MySQL"
   width="30px"
   style="padding-right:10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-
 <img
   align="left"
   title="Entity Framework Core"
   width="30px"
   style="padding-right:10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" />
-
 <img
   align="left"
   title="HTML5"
   width="30px"
   style="padding-right:10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
 <img
   align="left"
   title="CSS3"
   width="30px"
   style="padding-right:10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
 <img
   align="left"
   title="JavaScript"
   width="30px"
   style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
+</div>
+
 
