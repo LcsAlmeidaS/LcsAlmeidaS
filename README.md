@@ -2,9 +2,9 @@
 
 ### 🎓 Graduando em Sistemas de Informação
 
-Sou um apaixonado por tecnologia e desenvolvimento de software, atualmente cursando Sistemas de Informação. Meu objetivo é me tornar um desenvolvedor **Full Stack**, com uma forte base e foco principal em **Back-End**.
+Graduando em Sistemas de Informação, com objetivo de me tornar um desenvolvedor **Full Stack**, com uma forte base e foco principal em **Back-End**.
 
-Minhas ferramentas de trabalho preferidas incluem **C#**, **ASP.NET Core** e **bancos de dados**. Embora meu foco seja no **Back-End**, estou expandindo minhas habilidades e começando a aprender tecnologias de **Front-End** como **React**, para construir soluções completas e robustas.
+Minhas ferramentas de trabalho preferidas incluem **C#**, **ASP.NET Core** e **MySQL**. Embora meu foco seja no **Back-End**, estou expandindo minhas habilidades e começando a aprender tecnologias de **Front-End** como **React**, para construir soluções completas e robustas.
 
 ---
 
