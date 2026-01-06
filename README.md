@@ -2,7 +2,7 @@
 
 ### 🎓 Graduando em Sistemas de Informação
 
-Graduando em Sistemas de Informação, com objetivo de me tornar um desenvolvedor **Full Stack**, com uma forte base e foco principal em **Back-End**.
+Graduando em Sistemas de Informação pela PUC Minas, com objetivo de me tornar um desenvolvedor **Full Stack**, com uma forte base e foco principal em **Back-End**.
 
 • **Ferramentas:**
 **C#**
