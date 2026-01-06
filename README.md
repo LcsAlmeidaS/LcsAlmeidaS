@@ -4,7 +4,11 @@
 
 Graduando em Sistemas de Informação, com objetivo de me tornar um desenvolvedor **Full Stack**, com uma forte base e foco principal em **Back-End**.
 
-Minhas ferramentas de trabalho preferidas incluem **C#**, **ASP.NET Core** e **MySQL**. Embora meu foco seja no **Back-End**, estou expandindo minhas habilidades e começando a aprender tecnologias de **Front-End** como **React**, para construir soluções completas e robustas.
+• **Ferramentas:**
+**C#**
+• **ASP.NET Core**
+• **MySQL**
+• **React**
 
 ---
 
