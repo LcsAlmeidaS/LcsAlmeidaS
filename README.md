@@ -1,18 +1,12 @@
-# Olá! Meu nome é Lucas Almeida
+# Lucas Almeida
 
 ### 🎓 Graduando em Sistemas de Informação
 
 Graduando em Sistemas de Informação pela PUC Minas, com objetivo de me tornar um desenvolvedor **Full Stack**, com uma forte base e foco principal em **Back-End**.
 
-• **Ferramentas:**
-**C#**
-• **ASP.NET Core**
-• **MySQL**
-• **React**
-
 ---
 
-### 🛠 Habilidades
+### 💻   Skills 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
