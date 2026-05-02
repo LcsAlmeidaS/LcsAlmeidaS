@@ -1,29 +1,30 @@
 # Lucas Almeida
 
-### 🎓 Graduando em Sistemas de Informação
+## Full Stack Developer | C# | ASP.NET Core | EF Core | MySQL | PostgreSQL | ReactJS   Information Systems student PUC Minas
 
-Graduando em Sistemas de Informação pela PUC Minas, com objetivo de me tornar um desenvolvedor **Full Stack**, com uma forte base e foco principal em **Back-End**.
+I'm a Full Stack Developer with a strong focus on back-end development in the .NET ecosystem.
+
+I primarily work on designing and building RESTful APIs with ASP.NET Core, focusing on clean architecture, scalability, and maintainable code. I use Entity Framework Core for data access and work with relational databases like MySQL and PostgreSQL.
+
+While my main focus is Back-End, I'm currently improving my front-end skills with React, exploring how to build modern interfaces and integrate them effectively with back-end services.
+
+I'm always looking to grow as a developer, refining my problem-solving skills and building solutions to real-world challenges.
 
 ---
 
-### 💻   Skills 
+### 💻 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" alt="Entity Framework Core" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="ReactJs" width="40" heigth="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/>
 </p>
 
 ---
 
+### 📬 Contact
 
-
-### 📬 Contato
-
-**Email:** [lcshenriquegs@gmail.com](mailto:lcshenriquegs@gmail.com)
+📧 Email: **lcshenriquegs@gmail.com**
