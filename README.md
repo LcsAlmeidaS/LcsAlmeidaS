@@ -1,6 +1,6 @@
 # Lucas Almeida
 
-## Full Stack Developer | C# | ASP.NET Core | EF Core | MySQL | PostgreSQL | ReactJS   Information Systems student PUC Minas
+## Full Stack Developer | C# | ASP.NET Core | React | NodeJS | MySQL | PostgreSQL | Docker Information Systems student PUC Minas
 
 I'm a Full Stack Developer with a strong focus on back-end development in the .NET ecosystem.
 
@@ -15,12 +15,7 @@ I'm always looking to grow as a developer, refining my problem solving skills an
 ### 💻 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nodejs,mysql,postgres,docker,git," />
 </p>
 
 ---
