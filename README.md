@@ -22,4 +22,4 @@ I'm always looking to grow as a developer, refining my problem solving skills an
 
 ### 📬 Contact
 
-📧 Email: **lcshenriquegs@gmail.com**
+📧 Email: **lcshenriquegs.dev@gmail.com**
