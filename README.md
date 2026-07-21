@@ -1,6 +1,6 @@
 # Lucas Almeida
 
-## Full Stack Developer | C# | ASP.NET Core | React | NodeJS | MySQL | PostgreSQL | Docker Information Systems student PUC Minas
+## Full Stack Developer | C# - ASP.NET Core | React | NodeJS | SQL | Docker
 
 I'm a Full Stack Developer with a strong focus on back-end development in the .NET ecosystem.
 
