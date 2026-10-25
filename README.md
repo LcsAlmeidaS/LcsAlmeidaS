@@ -15,7 +15,7 @@ I'm always looking to grow as a developer, refining my problem solving skills an
 ### 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nodejs,mysql,postgres,docker,git," />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nodejs,mysql,postgres,docker,rabbitmq,git," />
 </p>
 
 ---
