@@ -1,7 +1,6 @@
 # Lucas Almeida
 
-## Full Stack Developer | C# - ASP.NET Core | React | NodeJS | SQL | Docker
-
+## Full Stack Developer | C# - ASP.NET Core | TypeScript | React | Docker | Microservices | RabbitMQ 
 I'm a Full Stack Developer with a strong focus on back-end development in the .NET ecosystem.
 
 I primarily work on designing and building RESTful APIs with ASP.NET Core, focusing on clean architecture, scalability, and maintainable code. I use Entity Framework Core for data access and work with relational databases like MySQL and PostgreSQL.
@@ -15,7 +14,7 @@ I'm always looking to grow as a developer, refining my problem solving skills an
 ### 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nodejs,mysql,postgres,docker,rabbitmq,git," />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,,typescript,react,postgres,docker,rabbitmq,git," />
 </p>
 
 ---
